@@ -40,7 +40,4 @@ The data was cleaned and transformed using **Power Query**. DAX measures and KPI
 
 Open the `.pbix` files using **Microsoft Power BI Desktop** to explore the dashboard.
 
-## Author
 
-**Prathvi P Rao**
-B.E. Artificial Intelligence and Machine Learning
